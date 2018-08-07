@@ -1,14 +1,10 @@
 ###################
-What is CodeIgniter
+Claim Management System
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Claim Management System is a client, agency and insurance management
+solution that helps client and agencies to file claims and allows 
+insureance companies to pprocess them.
 
 *******************
 Release Information
@@ -16,7 +12,7 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+<https://#>`_ page.
 
 **************************
 Changelog and New Features
@@ -39,7 +35,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
+Please see the `installation section <https:#>`_
 of the CodeIgniter User Guide.
 
 *******
@@ -59,7 +55,7 @@ Resources
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
 -  `Community Slack Channel <https://codeigniterchat.slack.com>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
+Report security issues to our `Security Panel <mailto:admin@dimehub.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
